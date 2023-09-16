@@ -32,7 +32,7 @@
     "passport": "~0.6.0",
     "sequelize": "^6.21.6",
     "typeorm": "^0.3.11",
-    "validator": "^13.7.0"
+    "validator": "^13.11.0"
   },
   "devDependencies": {
     "sequelize-cli": "^6.4.1"
